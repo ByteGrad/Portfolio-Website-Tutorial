@@ -2,7 +2,7 @@
 
 # Responsive Portfolio Website in HTML / CSS / JavaScript -- [Watch tutorial here](https://youtube.com/)
 
-You can find all the copy-paste stuff in the 'resources' file.
+You can find all the copy-paste stuff in the 'resources.txt' file.
 
 You can find the final code in the folder 'final-code'. You can use that if you get stuck.
 
