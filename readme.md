@@ -7,5 +7,5 @@ You can find the final code in the folder 'final-code'. You can use that if you 
 ## Resources
 
 ## Premium Courses
-[Professional CSS](https://bytegrad.com/courses/professional-css)
+[Professional CSS](https://bytegrad.com/courses/professional-css) &
 [Professional JavaScript](https://bytegrad.com/courses/professional-javascript)
