@@ -1,5 +1,4 @@
-<!-- ![](project-screenshot.png) -->
-`video: https://www.youtube.com/watch?v=1JWOVGzzgMc`
+[![Watch tutorial here](https://img.youtube.com/vi/LX66mf1Xzt8/0.jpg)](https://www.youtube.com/watch?v=LX66mf1Xzt8)
 
 # Responsive Portfolio Website in HTML / CSS / JavaScript -- [Watch tutorial here](https://youtu.be/LX66mf1Xzt8)
 
