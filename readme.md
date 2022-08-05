@@ -1,6 +1,7 @@
-![](project-screenshot.png)
+<!-- ![](project-screenshot.png) -->
+`video: https://www.youtube.com/watch?v=1JWOVGzzgMc`
 
-# Responsive Portfolio Website in HTML / CSS / JavaScript -- [Watch tutorial here](https://youtube.com/)
+# Responsive Portfolio Website in HTML / CSS / JavaScript -- [Watch tutorial here](https://youtu.be/LX66mf1Xzt8)
 
 You can find all the copy-paste stuff in the 'resources.txt' file.
 
